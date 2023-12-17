@@ -1,0 +1,16 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "\"This a repository, where'll you \u001b[D find the js class\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "html",
+    "css"
+  ],
+  "author": "Kevin Zambrano <kevinzambranocastro@gmail.com>",
+  "license": "MIT"
+}
